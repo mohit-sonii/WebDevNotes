@@ -2,7 +2,7 @@
 It is a fundamental concept in Web development  that describes how elements on a web page are structured
 and how their dimensions are calculated.<br><br>
 
-<strong>Box Model Components<strong>:- <br>
+<strong>Box Model Components</strong>:- <br>
 
 content area:- It is the field where you content rests.<br>
 Padding :-  It is the space between border and your content<br>
