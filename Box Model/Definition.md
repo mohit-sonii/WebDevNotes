@@ -2,13 +2,13 @@
 It is a fundamental concept in Web development  that describes how elements on a web page are structured
 and how their dimensions are calculated.<br><br>
 
-<strong>Box Model Components:-<strong> <br><br>
+<strong>Box Model Components<strong>:- <br>
 
 content area:- It is the field where you content rests.<br>
 Padding :-  It is the space between border and your content<br>
 Border:-  It is the surrounding of padding. you can say border is boundary <br>
 Margin:- The space outside the border, creating a gap between the element and its surrounding elements.<br>
-<br><br><br>
+<br><br>
 
 <strong>Padding, Border and margin are applied to 4 sides i.e top,bottom,left and right.</strong>
 
