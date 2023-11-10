@@ -1,0 +1,35 @@
+*{
+     color:red;
+     padding:0px;
+     /*you will see that every content will
+     stick to each other*/
+     margin:0px;
+}
+.first{
+     color: green;
+     background-color: aqua;
+     /*you will see that it will apply to last 
+     tag also beacuse it is the single property
+     that is not common in both classes.*/
+     padding:25px;
+     height:200px;/*height of content*/
+     box-sizing: border-box; /*refer to definition.md to read about this*/
+     margin:30px;
+     border: 2px solid brown;
+
+}
+.second{
+     /*if this will be above from .first rule 
+     then the .first rule will orverride the value
+     */
+     margin:30px;
+     padding:25px;/*we have added padding to 25px, notice the changes done in background*/ 
+     color:blueviolet;
+     border: 2px solid brown;
+}
+
+
+/* they might look tricky but make sure to go on my Instagram page to learn with example simultaneously
+
+------------------Goto 'Definition.md' to read further*/
+
