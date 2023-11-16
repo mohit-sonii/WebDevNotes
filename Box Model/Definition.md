@@ -37,6 +37,7 @@ Here comes the concept of <strong>margin-collapse</strong>
 Like if we have a margin of 25px there on both elements. Both are equal so 25 will be applied only once.
 </italic><br>
 Refer to my instagram page to learn with examples simultaneously.<br>
+<a href="https://instagram.com/developer.mohit"></a>
 
 <strong>box-sizing:border-box;</strong><br><br>
 We have given a height of 200px to 1st paragrph<br>
